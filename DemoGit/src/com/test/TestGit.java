@@ -9,6 +9,7 @@ public class TestGit {
 		String test03 = "123456789";
 		
 		String test044 = "123456789linzhijia";
+		String test041 ="hello git" ;
 		
 		System.out.println("git test 123456789");
 		
