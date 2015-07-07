@@ -8,7 +8,7 @@ public class TestGit {
 		String test02 = "123456789";
 		String test03 = "123456789";
 		
-		String test044 = "123456789";
+		String test044 = "123456789linzhijia";
 		
 		System.out.println("git test 123456789");
 		
